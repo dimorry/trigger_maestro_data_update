@@ -1,0 +1,6 @@
+JOB: TRIGGER_DATA_UPDATE
+COMMAND: /home/mauricio/repos/eaton/trigger_maestro_data_update/run_trigger_data_update.sh <data_source>
+DESCRIPTION: Trigger Maestro Data Update
+APPLICATION: Maestro
+GROUP: DataUpdate
+NODEID: <your_controlm_agent>

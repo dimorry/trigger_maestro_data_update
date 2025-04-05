@@ -5,5 +5,6 @@ __pycache__/
 *.xlsx
 *.duckdb*
 credentials.json
+config.json
 *mermaid*.html
 trigger_data_update.log
