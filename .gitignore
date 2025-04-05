@@ -1,0 +1,9 @@
+/__pychache__
+__pycache__/
+*.duckdb
+*.tab
+*.xlsx
+*.duckdb*
+credentials.json
+*mermaid*.html
+trigger_maestro_data_update/trigger_data_update.log

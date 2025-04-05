@@ -1,0 +1,18 @@
+2025-04-04 19:35:57,009 - INFO - Program started.
+2025-04-04 19:35:57,009 - INFO - Step 1: Waiting 5 minutes for file transfer to complete.
+2025-04-04 19:54:46,439 - INFO - Program started.
+2025-04-04 19:54:46,439 - INFO - Step 1: Waiting 5 minutes for file transfer to complete.
+2025-04-04 19:59:37,427 - ERROR - File transfer cancelled or exceeded maximum allowed time of 30 minutes. Exiting.
+2025-04-04 19:59:51,002 - INFO - Program started.
+2025-04-04 19:59:51,002 - INFO - Step 1: Waiting 5 minutes for file transfer to complete.
+2025-04-04 20:04:41,859 - INFO - Step 2: Triggering data update.
+2025-04-04 20:04:42,330 - INFO - Step 3: Entering inner loop to check for data update ID.
+2025-04-04 20:04:42,575 - INFO - Step 4: Checking data update status.
+2025-04-04 20:04:42,575 - INFO - No new extract data. Restarting the process.
+2025-04-04 20:04:42,575 - INFO - Step 1: Waiting 5 minutes for file transfer to complete.
+2025-04-04 20:09:33,410 - INFO - Step 2: Triggering data update.
+2025-04-04 20:09:33,942 - INFO - Step 3: Entering inner loop to check for data update ID.
+2025-04-04 20:09:34,138 - INFO - Data update is still in progress. Waiting 2 minutes...
+2025-04-04 20:11:30,328 - INFO - Step 4: Checking data update status.
+2025-04-04 20:11:30,328 - INFO - No new extract data. Restarting the process.
+2025-04-04 20:11:30,329 - INFO - Step 1: Waiting 5 minutes for file transfer to complete.

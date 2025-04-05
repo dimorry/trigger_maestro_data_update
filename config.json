@@ -1,0 +1,8 @@
+{
+    "HOST": "https://na3.kinaxis.net/",
+    "COMPANY_ID": "ETND02_DEV01",
+    "DATA_SOURCE": "MFGPRO_MSX",
+    "MAX_FILE_TRANSFER_TIME_MINUTES": 30,
+    "FILE_XFER_WAIT_TIME_MINUTES": 5,
+    "DATA_UPDATE_WAIT_TIME_MINUTES": 2
+}
