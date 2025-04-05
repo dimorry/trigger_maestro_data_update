@@ -1,0 +1,11 @@
+/__pychache__
+__pycache__/
+*.duckdb
+*.tab
+*.xlsx
+*.duckdb*
+credentials.json
+config.json
+*mermaid*.html
+trigger_data_update.log
+run_trigger_data_update.sh
