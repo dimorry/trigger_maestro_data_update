@@ -6,4 +6,4 @@ __pycache__/
 *.duckdb*
 credentials.json
 *mermaid*.html
-trigger_maestro_data_update/trigger_data_update.log
+trigger_data_update.log
