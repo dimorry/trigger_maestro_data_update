@@ -58,8 +58,9 @@ class TriggerDataUpdate:
                         continue
 
                     logging.info("Step 4: Checking data update status.")
-                    if status == "No new extract data":
-                        logging.info(f"Data Update Id {data_update_id}: No new extract data. Restarting the process.")
+
+                    if status == "No new extract data" or status == "Canceled": # Maestro sometimes logs as cancelled when files are still being transferred
+                        logging.info(f"Data Update Id {data_update_id}: Status: {status}. Restarting the process.")
                         break  # Restart data transfer loop
                     else:
                         logging.info(f"Data Update ID: {data_update_id}, Status: {status}")
