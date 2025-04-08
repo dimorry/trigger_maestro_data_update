@@ -24,6 +24,7 @@ class TriggerDataUpdate:
     def run(self, data_source):
         start_time = datetime.now()
 
+        logging.info(f"Getting oAuth token.")
         self.get_token()
 
         while True:  # Data Transfer loop
