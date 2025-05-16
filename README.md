@@ -134,18 +134,6 @@ To integrate with CONTROL-M, use the run_trigger_data_update.sh script as the jo
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
----
-
 This `README.md` provides a comprehensive overview of the project, including setup, configuration, usage, and integration details.
 
 dimorry: go ahead and add this file to the project
